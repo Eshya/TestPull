@@ -1,3 +1,3 @@
 function test1(response){
-    return response;
+    return response*2;
 }
